@@ -1,0 +1,12 @@
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csprojAssemblyReference.cache
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Login.resources
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.StudentDetail.resources
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.TutorDetail.resources
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.GenerateResource.cache
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+D:\BilgeAdam_YardımcıKaynaklar\Kişisel denemelerim\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb
